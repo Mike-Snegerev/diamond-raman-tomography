@@ -1,6 +1,6 @@
 # Diamond (111) Confocal Raman Tomography & Dislocation Analysis
 
-![Diamond Selected Region](../assets/diamond_selected_region.jpg)
+![Diamond Selected Region](/assets/diamond_selected_region.jpg)
 
 ## Overview
 This repository contains an advanced computational analysis pipeline for **3D confocal Raman spectroscopy depth profiling** of diamond crystals. The project focuses on investigating the **(111) crystal facet** and characterizing subsurface lattice defects, stress fields, and dislocations within a selected $25 \times 25$ µm analytical micro-area.
